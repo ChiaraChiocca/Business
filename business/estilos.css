@@ -101,7 +101,7 @@ img {
 }
 */
 .principal {
-    background-image: url('./imagenes/negocios.jpg');
+    background-image: url('./imagenes/negocios.jpeg');
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
